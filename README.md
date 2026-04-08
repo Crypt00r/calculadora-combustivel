@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⛽ Calculadora de Combustível
 
 Uma calculadora web para descobrir qual combustível compensa mais abastecer: **Álcool**, **Gasolina** ou **GNV**.
@@ -47,4 +47,4 @@ Os arquivos otimizados serão gerados na pasta `dist/`.
 - Interface limpa e responsiva
 =======
 # calculadora-combustivel
->>>>>>> 1fffe686e3ccd65649bb202b9605d14633f5de1b
+
